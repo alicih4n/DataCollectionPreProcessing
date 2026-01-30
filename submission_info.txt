@@ -1,0 +1,15 @@
+# PROJECT SUBMISSION
+
+**Project Title:** Data Engineering Road-map: End-to-End E-Commerce Pipeline
+**Student Name:** Ali Cihan Ozdemir
+**Student ID:** 9091405
+**Course:** PROG8245 - Data Collection & Pre-Processing
+
+**GitHub Repository Link:**
+[Insert your GitHub Link Here, e.g., https://github.com/your-username/DataCollectionPreProcessing]
+
+**Project Source:**
+Local File: notebooks/data_engineering_lab.ipynb
+Original Data Source: ExcelBIAnalytics (1000 Sales Records)
+
+**Date:** 2026-01-30
