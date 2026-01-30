@@ -66,11 +66,13 @@ def create_submission_pdf():
     pdf.set_font("Arial", '', 12)
     pdf.multi_cell(0, 8, 
         "This submission contains a Jupyter Notebook implementing a 15-step Data Engineering workflow. "
-        "It includes data loading, cleaning, transformation, and serialization (JSON) of e-commerce sales data.\n\n"
+        "It includes data loading (Merging two sources), cleaning, transformation, and serialization (JSON + CSV) of e-commerce sales data.\n\n"
         "Files included in the repository:\n"
         "- notebooks/data_engineering_lab.ipynb\n"
-        "- data/sales_data.csv\n"
-        "- data/product_metadata.csv\n"
+        "- data/sales_data.csv (Source 1)\n"
+        "- data/shipping_promo_data.csv (Source 2 - Generated)\n"
+        "- data/processed_transactions.json\n"
+        "- data/processed_transactions.csv\n"
         "- requirements.txt\n"
         "- README.md\n"
     )
