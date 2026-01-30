@@ -23,6 +23,4 @@ jupyter notebook notebooks/data_engineering_lab.ipynb
 - **Secondary Metadata**: `data/product_metadata.csv` (Synthetic/Derived) used to enrich the product catalogue with descriptions and shelf life.
 
 ## 4. Other Projects
-- [Data Streaming Workshop](https://github.com/example/data-streaming)
-- [Review Management SaaS](https://github.com/example/review-saas)
-- [Anomaly Detection Lab](https://github.com/example/anomaly-detection)
+- [Data Streaming and Visualization Workshop](https://github.com/alicih4n/DataStreamVisualization_Workshop.git)
